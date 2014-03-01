@@ -1,7 +1,7 @@
 ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="nostalgia"
 
-plugins=(git git-flow python django history-substring-search brew osx vagrant pip)
+plugins=(git git-flow python django history-substring-search brew osx vagrant pip rvm gem)
 
 export VIRTUAL_ENV_DISABLE_PROMPT='Y'
 
